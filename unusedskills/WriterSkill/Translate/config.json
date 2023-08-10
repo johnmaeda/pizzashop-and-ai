@@ -15,8 +15,8 @@
   "input": {
     "parameters": [
       {
-            "name": "text",
-            "description": "The information to translate",
+            "name": "input",
+            "description": "The text to translate",
             "defaultValue": ""
       },
       {
