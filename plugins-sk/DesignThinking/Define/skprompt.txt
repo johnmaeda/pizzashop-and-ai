@@ -2,8 +2,11 @@ Customer support logs were analyzed for strengths and weaknesses with the top ca
 ---
 {{$input}}
 ---
-Categorize the customer cases and express them in a markdown table of the form with no overlaps in the cases:
+Categorize the customer analyses and express them in a markdown table of the form with no overlaps in the cases:
 
-| Case | Definition | Possible Source |
+| Analysis | Definition | Possible Source |
 | --- | --- | --- |
-| concise name of the likely cause | definition of the case as commonly encountered | operational reason for why this case exists |
+| concise title of the customer support analysis | definition of the case as commonly encountered | operational reason for why this case exists |
+
+
+The output table in markdown:

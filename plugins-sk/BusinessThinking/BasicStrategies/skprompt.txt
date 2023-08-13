@@ -12,10 +12,10 @@ Growth as built upon a business' existing strengths is always a great place to s
 * Opportunities: Make a few bets
 * Threats: Be ready for undesirable changes
 
-For a business that {{$business}} with strengths in {{$strengths}} and weaknesses in {{$weaknesses}}.
+For a business that {{$input}} with strengths in {{$strengths}} and weaknesses in {{$weaknesses}}.
 ---
 
-Add a markdown ## heading entitled "Building on strengths can immediately improve the business"
+Add a markdown ### heading entitled "Building on strengths can immediately improve the business"
 
 Define at least three ways in which the business can improve.
 The format should read in markdown format as:
@@ -27,7 +27,7 @@ The format should read in markdown format as:
 
 And for a business with opportunities {{$opportunities}} and threats like {{$threats}}
 
-Before the next section add a markdown ## heading entitled "Taking advantage of opportunities whenever possible"
+Before the next section add a markdown ### heading entitled "Taking advantage of opportunities whenever possible"
 
 Define at least three ways in which the business can grow new revenue.
 The format should read in markdown format as:
@@ -37,7 +37,7 @@ The format should read in markdown format as:
 | concise name of the growth strategy | opportunity that is being built upon | a short description of the strategy |
 | concise name of the growth strategy | opportunity that is being built upon | a short description of the strategy |
 
-Before the next section add a markdown ## heading entitled "Building resilience to threats is always a good idea"
+Before the next section add a markdown ### heading entitled "Building resilience to threats is always a good idea"
 
 Define at least three ways in which the business can become more resilient to threats.
 The format should read in markdown format as:
