@@ -18,19 +18,19 @@ The question
 
 Page 3:
 
-Three key concerns in bulleted form
+Three key concerns that directly address the question.
 
 page 4:
 
-First concern with explanation and an example
+First concern with explanation and an example of how to address the concern
 
 page 5:
 
-Second concern with explanation and an example
+Second concern with explanation and an example of how to address the concern
 
 Page 6:
 
-Third concern with explanation and an example
+Third concern with explanation and an example of how to address the concern
 
 Page 5:
 
