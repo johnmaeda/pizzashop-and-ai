@@ -1,0 +1,3 @@
+semantic-kernel==0.3.8.dev0
+chromadb==0.4.8
+ipykernel==6.25.1
