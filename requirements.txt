@@ -1,0 +1,4 @@
+semantic-kernel==0.3.10.dev0
+chromadb==0.4.5
+ipykernel==6.25.1
+#pysqlite3-binary==0.5.1
